@@ -7,5 +7,5 @@
 ### Ejercicio 4:Creación de un Mapa con información del Censo
 ##### - Simplemente cambié el color del mapa por un color cyan.
 ##### - manz.head() lo camvie por manz-head(3) para que me mostrara las primeras 3 lineas.
-##### - finalmente en el mapa de la poblacion total por manzana; cambie el color, el espacio de la barra, la posicion de la legend (barra co el rango de valores) junto con el espacio que tenía (pad), el tamaño de fuente del título y el nombre del archivo
+##### - finalmente en el mapa de la poblacion total por manzana; cambie el color, el espacio de la barra, la posicion de la legend (barra con el rango de valores) junto con el espacio que tenía (pad), el tamaño de fuente del título y el nombre del archivo
 
